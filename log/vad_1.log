@@ -1,0 +1,23 @@
+2023-04-07 09:41:34,358 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_en_normal_crdnns
+2023-04-07 09:41:38,155 - __main__ - INFO - Total Phone folders #0
+2023-04-07 09:43:01,599 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_en_normal_crdnns
+2023-04-07 09:43:05,303 - __main__ - INFO - Total Phone folders #0
+2023-04-07 09:44:40,167 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_en_normal_crdnns
+2023-04-07 09:44:44,154 - __main__ - INFO - Total Phone folders #3385
+2023-04-07 09:45:46,725 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_en_normal_crdnns
+2023-04-07 09:46:29,502 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_en_normal_crdnns
+2023-04-07 09:49:06,710 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_en_normal_crdnns
+2023-04-07 09:49:10,590 - __main__ - INFO - Total Phone folders #3385
+2023-04-07 09:53:03,564 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_en_normal_crdnns
+2023-04-07 09:53:07,475 - __main__ - INFO - Total Phone folders #3385
+2023-04-07 09:54:09,413 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_zh_normal_crdnns
+2023-04-07 09:54:36,309 - __main__ - INFO - Load VAD model from speechbrain: /ssd2/online/models/VAD/vad_16k_en_normal_crdnns
+2023-04-07 09:54:40,363 - __main__ - INFO - Total Phone folders #3385
+2023-04-07 09:55:07,214 - __main__ - ERROR - Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument tensors in method wrapper___cat)
+2023-04-07 09:59:50,782 - __main__ - ERROR - Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument tensors in method wrapper___cat)
+2023-04-07 09:59:56,716 - __main__ - ERROR - Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument tensors in method wrapper___cat)
+2023-04-07 10:00:09,912 - __main__ - ERROR - Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument tensors in method wrapper___cat)
+2023-04-07 10:02:51,773 - __main__ - ERROR - Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument tensors in method wrapper___cat)
+2023-04-07 10:02:55,138 - __main__ - ERROR - Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument tensors in method wrapper___cat)
+2023-04-07 10:03:33,774 - __main__ - ERROR - Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument tensors in method wrapper___cat)
+2023-04-07 10:03:34,693 - __main__ - ERROR - Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument tensors in method wrapper___cat)

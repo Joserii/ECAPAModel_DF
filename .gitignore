@@ -1,0 +1,5 @@
+models/
+exps/
+__pycache__/
+scores_test/*
+*.git
