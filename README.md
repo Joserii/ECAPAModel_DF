@@ -56,20 +56,6 @@ python testECAPAModel.py --eval
 
 
 
-待优化：
-
-- 目前batch_size只能调成test_num的倍数，否则剩余batch无法写入。剩余batch如何写入？
-- 多卡训练没有实现
-
-
-
-
-
-
-
-
-
-
 
 
 
